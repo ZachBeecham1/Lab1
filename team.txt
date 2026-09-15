@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-taha
-Zach
-=======
 David
->>>>>>> 918b7ed832b9bf62efbf6d70d7240f37aadfaa2f
+Ahmed
